@@ -7,7 +7,7 @@ This is where I will store all of my reading notes throughout the duration of Co
 *Links will be added as assignments are completed.*
 - [Daily Reading Assignment 1: HTML](class-01.md)
 - [Daily Reading Assignment 2: HTML, CSS, & JS](class-02.md)
-- [Daily Reading Assignment 3](class-03.md)
+- [Daily Reading Assignment 3: Lists, Boxes, Decisions, and Loops](class-03.md)
 - [Daily Reading Assignment 4](class-04.md)
 - [Daily Reading Assignment 5](class-05.md)
 - [Daily Reading Assignment 6](class-06.md)
