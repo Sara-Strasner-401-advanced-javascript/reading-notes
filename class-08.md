@@ -18,4 +18,4 @@ CSS treats each HTML element as if it is in its own box. This box will either be
 - For a list of common CSS selectors, see [MDN CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors).
 - For practice with CSS, visit [CSS Diner](https://flukeout.github.io/). 
 - For inspiration, see [CSS Zen Garden](http://www.csszengarden.com/).
-- To test simple CSS code online, utilize [CodePen] (https://codepen.io/). 
+- To test simple CSS code online, utilize [CodePen](https://codepen.io/). 
