@@ -13,7 +13,7 @@ This is where I will store all of my reading notes throughout the duration of Co
 - [Daily Reading Assignment 6: Object Literals and the Document Object Model](class-06.md)
 - [Daily Reading Assignment 7:HTML Tables & JS Constructor Functions](class-07.md)
 - [Daily Reading Assignment 8: More CSS](class-08.md)
-- [Daily Reading Assignment 9](class-09.md)
+- [Daily Reading Assignment 9: Forms and Events](class-09.md)
 - [Daily Reading Assignment 10](class-10.md)
 - [Daily Reading Assignment 11](class-11.md)
 - [Daily Reading Assignment 12](class-12.md)
