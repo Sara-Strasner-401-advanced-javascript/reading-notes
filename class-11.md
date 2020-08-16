@@ -10,7 +10,7 @@ You can specify the size of images using CSS. This is very helpful when using th
  - FTP (File Transfer Protocil) programs allow you to transfer files from your local computer to your web server.
  - Many companies provide platforms for blogging, email newsletters, e-commerce, and other popular website tools (so you don't have to write them from scratch). 
 
- ## Video and Audio APIs
+## Video and Audio APIs
 HTML5 comes with elements for embedding rich media in documents — `<video>` and `<audio>` — which in turn come with their own APIs for controlling playback, seeking, etc. One very important attribute is `<video controls>`, which enables the default set of playback controls. If you don't specify this, you get no playback controls.
 
 In HTML5, the HTMLMediaElement API provides features to allow you to control video and audio players — for example `HTMLMediaElement.play()`, `HTMLMediaElement.pause()`, etc. This interface is available to both <audio> and <video> elements. See [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs) for more information. 
