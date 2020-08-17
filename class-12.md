@@ -12,7 +12,7 @@ For more information about Chart.js, see [this article from SquareSpace](https:/
 - The `<canvas>` element is used to draw graphics on a web page.It is only a container for graphics. You must use JavaScript to actually draw the graphics.
 
 ## Drawing Shapes with Canvas
-- `<canvas>` only supports two primitive shapes: rectangles and paths (lists of points connected by lines. 
+- `<canvas>` only supports two primitive shapes: rectangles and paths (lists of points connected by lines). 
 - Rectangles 
   - `fillRect(x, y, width, height)`
     Draws a filled rectangle.
@@ -34,7 +34,7 @@ For more information about Chart.js, see [this article from SquareSpace](https:/
     Draws a solid shape by filling the path's content area.
 
 ## Applying styles and colors
-There are two important properties tha can apply colors to a shape: `fillStyle` and `strokeStyle`.
+There are two important properties that can apply colors to a shape: `fillStyle` and `strokeStyle`.
 - `fillStyle = color`
   Sets the style used when filling shapes.
 - `strokeStyle = color`
