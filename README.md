@@ -17,6 +17,6 @@ This is where I will store all of my reading notes throughout the duration of Co
 - [Daily Reading Assignment 10: Debugging](class-10.md)
 - [Daily Reading Assignment 11: Audio, Video, Images](class-11.md)
 - [Daily Reading Assignment 12: Chart.js, Canvas](class-12.md)
-- [Daily Reading Assignment 13](class-13.md)
+- [Daily Reading Assignment 13: Local Storage](class-13.md)
 - [Daily Reading Assignment 14](class-14.md)
 - [Daily Reading Assignment 15](class-15.md)
