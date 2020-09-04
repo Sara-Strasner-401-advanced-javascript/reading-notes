@@ -7,12 +7,13 @@
 - A combination of the two is ideal, providing the perfect formula for functional websites. Which term is used specifically doesn’t make a huge difference.
 
 Responsive web design is broken down into three main components, including flexible layouts, media queries, and flexible media.
-1. **flexible layouts**, is the practice of building the layout of a website with a flexible grid, capable of dynamically resizing to any width. 
-1. **Media queries** were built as an extension to media types commonly found when targeting and including styles. Media queries provide the ability to specify different styles for individual browser and device circumstances, the width of the viewport or device orientation for example.
-1. **Flexible media** ensures images, videos, and other media types are scalable, changing their size as the size of the viewport changes.
+1. **Flexible Layouts**, is the practice of building the layout of a website with a flexible grid, capable of dynamically resizing to any width. 
+1. **Media Queries** were built as an extension to media types commonly found when targeting and including styles. Media queries provide the ability to specify different styles for individual browser and device circumstances, the width of the viewport or device orientation for example.
+1. **Flexible Media** ensures images, videos, and other media types are scalable, changing their size as the size of the viewport changes.
 
 ## CSS Floats
 *for more information, visit [All About Floats](https://css-tricks.com/all-about-floats/)*
+
 In web design, page elements with the CSS float property applied to them are just like the images in the print layout where the text flows around them. Floated elements remain a part of the flow of the web page.
 
 There are four valid values for the float property.
