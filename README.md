@@ -30,6 +30,8 @@
 - [Daily Reading Assignment 13: Local Storage](class-13.md)
 - [Daily Reading Assignment 14: CSS Animations and Teamwork](class-14.md)
 - [Daily Reading Assignment 15](class-15.md)
+
 ## Code 301 - Intermediate Software Development
+- [SMACSS and Responsive Web Design](301-class1.md)
 ## Code 401 - Advanced Software Development
 
