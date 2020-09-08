@@ -93,7 +93,7 @@ The `outerWidth()` and `outerHeight()` methods include the padding and borders.
 
 ## 6 Reasons for Pair Programming
 1. **Greater efficiency**- pair programing takes slightly longer, but produces higher-quality code that doesn’t require later effort in troubleshooting and debugging.
-1. **Engaged collaboration**- the experience is more engaging and both programmers are more focused than if they were working alone. Additionally, pair progeammers rely more on each other and can often find a solution together without needing to ask for additional help.
+1. **Engaged collaboration**- the experience is more engaging and both programmers are more focused than if they were working alone. Additionally, pair programmers rely more on each other and can often find a solution together without needing to ask for additional help.
 1. **Learning from fellow students**- If one developer has a unique approach to a specific problem, pair programming exposes the other developer to a new solution. A less experienced developer benefits from the experienced developer’s knowledge and guidance, and the latter benefits from explaining the topic in their own words, further solidifying their own understanding.
 1. **Social skills**- helps programmers develop their interpersonal skills, which makes them a more desirable programmers to prospective employers.
 1. **Job interview readiness**- For most roles, the ability to work with and learn from others and stellar communication skills are as (or more!) important to a company than specific technical skills. Thus, a common step in many interview processes involves pair programming between a current employee and an applicant. 
