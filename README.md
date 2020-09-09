@@ -34,5 +34,6 @@
 ## Code 301 - Intermediate Software Development
 - [SMACSS and Responsive Web Design](301-class1.md)
 - [jQuery, Events, the DOM, and Pair Programming](301-class2.md)
+- [MUSTACHE and FLEXBOX](301-class3.md)
 ## Code 401 - Advanced Software Development
 
