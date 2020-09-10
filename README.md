@@ -36,5 +36,6 @@
 - [jQuery, Events, the DOM, and Pair Programming](301-class2.md)
 - [MUSTACHE and FLEXBOX](301-class3.md)
 - [CSS Grid](301-class4.md)
+- [Heroku](301-class5.md)
 ## Code 401 - Advanced Software Development
 
