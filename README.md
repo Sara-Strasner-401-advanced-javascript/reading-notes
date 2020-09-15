@@ -38,5 +38,6 @@
 - [CSS Grid](301-class4.md)
 - [Heroku](301-class5.md)
 - [Node.js](301-class6.md)
+- [APIs](301-class7.md)
 ## Code 401 - Advanced Software Development
 
