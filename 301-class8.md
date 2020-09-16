@@ -42,3 +42,8 @@ SQL Logical Operators
 - `NOT`	Displays a record if the condition(s) is NOT TRUE	
 - `OR`	TRUE if any of the conditions separated by OR is TRUE	
 - `SOME`	TRUE if any of the subquery values meet the condition	
+
+
+## Additional Resources
+- [A Primer on SQL](https://openlibra.com/en/book/a-primer-on-sql-3rd-edition)
+- [SQL Cheat Sheet](http://www.cheat-sheets.org/sites/sql.su/)

@@ -39,6 +39,6 @@
 - [Heroku](301-class5.md)
 - [Node.js](301-class6.md)
 - [APIs](301-class7.md)
-- [SQL](301-class08.md)
+- [SQL](301-class8.md)
 ## Code 401 - Advanced Software Development
 
