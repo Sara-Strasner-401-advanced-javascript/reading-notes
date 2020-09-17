@@ -40,5 +40,6 @@
 - [Node.js](301-class6.md)
 - [APIs](301-class7.md)
 - [SQL](301-class8.md)
+- [Refactoring](301-class9.md)
 ## Code 401 - Advanced Software Development
 
