@@ -45,5 +45,6 @@
 - [EJS](301-class11.md)
 - [EJS Partials](301-class12.md)
 - [Sending Form Data](301-class13.md)
+- [Database Normalization](301-class14.md)
 ## Code 401 - Advanced Software Development
 
