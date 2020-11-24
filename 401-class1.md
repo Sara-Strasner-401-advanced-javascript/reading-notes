@@ -48,34 +48,12 @@ Gather together people who are familiar with the specifics of the problem, and w
 If you can, observe the problem in action. Discuss it with your team and write a brief, clear problem statement that you all agree on. For example, "Team A isn't meeting its response time targets" or "Software release B resulted in too many rollback failures."
 Then, write your statement on a whiteboard or sticky note, leaving enough space around it to add your answers to the repeated question, "Why?"
 1. Ask the First "Why?"
-Ask your team why the problem is occurring. (For example, "Why isn't Team A meeting its response time targets?")
-Asking "Why?" sounds simple, but answering it requires serious thought. Search for answers that are grounded in fact: they must be accounts of things that have actually happened, not guesses at what might have happened. This prevents 5 Whys from becoming just a process of deductive reasoning, which can generate a large number of possible causes and, sometimes, create more confusion as you chase down hypothetical problems.
-
-Your team members may come up with one obvious reason why, or several plausible ones. Record their answers as succinct phrases, rather than as single words or lengthy statements, and write them below (or beside) your problem statement. For example, saying "volume of calls is too high" is better than a vague "overloaded."
-
+Ask your team why the problem is occurring. (For example, "Why isn't Team A meeting its response time targets?"). Asking "Why?" sounds simple, but answering it requires serious thought. Search for answers that are grounded in fact: they must be accounts of things that have actually happened, not guesses at what might have happened. This prevents 5 Whys from becoming just a process of deductive reasoning, which can generate a large number of possible causes and, sometimes, create more confusion as you chase down hypothetical problems.
 1. Ask "Why?" Four More Times
 For each of the answers that you generated in Step 3, ask four further "whys" in succession. Each time, frame the question in response to the answer you've just recorded.
-
-Tip:
-Try to move quickly from one question to the next, so that you have the full picture before you jump to any conclusions.
-
 1. Know When to Stop
 You'll know that you've revealed the root cause of the problem when asking "why" produces no more useful responses, and you can go no further. An appropriate counter-measure or process change should then become evident. (As we said earlier, if you're not sure that you've uncovered the real root cause, consider using a more in-depth problem-solving technique like Cause and Effect Analysis , Root Cause Analysis , or FMEA .)
-
-If you identified more than one reason in Step 3, repeat this process for each of the different branches of your analysis until you reach a root cause for each one.
-
-Tip 1:
-The "5" in 5 Whys is really just a "rule of thumb ." In some cases, you may need to ask "Why?" a few more times before you get to the root of the problem.
-
-In other cases, you may reach this point before you ask your fifth "Why?" If you do, make sure that you haven't stopped too soon, and that you're not simply accepting "knee-jerk" responses.
-
-The important point is to stop asking "Why?" when you stop producing useful responses.
-
-Tip 2:
-As you work through your chain of questions, you may find that someone has failed to take a necessary action. The great thing about 5 Whys is that it prompts you to go further than just assigning blame, and to ask why that happened. This often points to organizational issues or areas where processes need to be improved.
-
 1. Address the Root Cause(s)
 Now that you've identified at least one root cause, you need to discuss and agree on the counter-measures that will prevent the problem from recurring.
-
 1. Monitor Your Measures
 Keep a close watch on how effectively your counter-measures eliminate or minimize the initial problem. You may need to amend them, or replace them entirely. If this happens, it's a good idea to repeat the 5 Whys process to ensure that you've identified the correct root cause.
