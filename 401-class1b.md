@@ -24,7 +24,8 @@ Array.reduce() executes a provided function on each value in an array and return
 function StarWars(person){
   this.name = person.name;
   this.url = person.url;
-}```
+}
+```
 - Again with async / await syntax
 ```async function getCityData(city) {
   try {
@@ -35,7 +36,8 @@ function StarWars(person){
   }
 }
 
-getCityData('Denver');```
+getCityData('Denver');
+```
 
 1. Explain promises as though you were mentoring a Code 301 level student
 Promises are an object that may produce a single value sometime in the future. Promises have three states, resolved, rejected, and pending. They are often compared to envelopes since they may or may not return with a value. For examples of its usage, see [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise).
