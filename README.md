@@ -50,4 +50,5 @@
 
 ## Code 401 - Advanced Software Development
 - [Engineering Topics](401-class1.md)
+- [Node Ecosystem, TDD, CI/CD]((401-class1b.md))
 
