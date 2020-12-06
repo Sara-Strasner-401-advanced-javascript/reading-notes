@@ -6,6 +6,7 @@ Array.map() loops over an array and makes a new one with the results of calling 
 Array.reduce() executes a provided function on each value in an array and returns a single output. To learn more about the many uses of array.reduce() see [5 Use Cases for reduce() in JavaScript](https://medium.com/javascript-in-plain-english/5-use-cases-for-reduce-in-javascript-61ed243b8fef)
 1. Provide code snippets showing how to use superagent() to fetch data from a URL and log the result:
 - With normal Promise .then() syntax
+
 ```
 const getCharacters = (request, response)=> {
   let url = 'https://swapi.dev/api/people/';
@@ -27,7 +28,9 @@ function StarWars(person){
   this.url = person.url;
 }
 ```
+
 - Again with async / await syntax
+
 ```
 async function getCityData(city) {
   try {
