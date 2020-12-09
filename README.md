@@ -52,4 +52,5 @@
 - [Engineering Topics](401-class1.md)
 - [Node Ecosystem, TDD, CI/CD](401-class1b.md)
 - [Express](401-class2.md)
+- [Express REST API](401-class3.md)
 
