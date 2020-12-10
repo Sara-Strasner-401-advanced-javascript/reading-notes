@@ -3,7 +3,7 @@
 ## Review, Research, and Discussion
 
 1. Name 3 real world use cases where you’d want to change the request with custom middleware
-to format the request object, validate names,
+to format the request object, validate names, validate zip codes
 1. True or false: The route handler is middleware?
 Not necessarily (so truthy?). The distinction is a little blurry in Express. Generally speaking, middleware that examines a bunch of different requests and usually prepares the request for further processing. A route handler that is targeted at a specific URL (or type of URL) and whose main purpose is to send a response back to the client for that URL.
 [source](https://stackoverflow.com/questions/58925276/what-is-the-difference-between-a-route-handler-and-middleware-function-in-expres#:~:text=They%20are%20not%20middleware%20functions,the%20only%20one%20callback%20function.)
