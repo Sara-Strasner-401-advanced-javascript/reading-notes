@@ -57,3 +57,4 @@
 - [Linked Lists](401-class5.md)
 - [Authentication](401-class6.md)
 - [Bearer Authorization](401-class7.md)
+- [Access Control (ACL)](401-class8.md)
