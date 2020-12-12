@@ -22,3 +22,4 @@ I'm not quite sure I understand the question, but I would probably start with te
 1. Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
 - traversing linked lists, Big O, how mongo and mongoose interact
 1. What are you most excited about trying to implement or see how it works?
+- doubly linked lists

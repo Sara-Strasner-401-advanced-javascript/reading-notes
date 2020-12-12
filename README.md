@@ -56,4 +56,4 @@
 - [Data Modeling](401-class4.md)
 - [Linked Lists](401-class5.md)
 - [Authentication](401-class6.md)
-
+- [Bearer Authorization](401-class7.md)
