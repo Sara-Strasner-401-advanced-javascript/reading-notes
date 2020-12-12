@@ -55,4 +55,5 @@
 - [Express REST API](401-class3.md)
 - [Data Modeling](401-class4.md)
 - [Linked Lists](401-class5.md)
+- [Authentication](401-class6.md)
 
