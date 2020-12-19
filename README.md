@@ -59,4 +59,5 @@
 - [Bearer Authorization](401-class7.md)
 - [Access Control (ACL)](401-class8.md)
 - [Stacks and Queues](401-class10.md)
-- [Stacks and Queues](401-class11.md)
+- [Event Driven Applications](401-class11.md)
+- [Socket.io](401-class12.md)
