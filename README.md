@@ -61,3 +61,5 @@
 - [Stacks and Queues](401-class10.md)
 - [Event Driven Applications](401-class11.md)
 - [Socket.io](401-class12.md)
+- [Message Queues](401-class13.md)
+- [Event-Driven Architecture](401-class14.md)
