@@ -63,3 +63,4 @@
 - [Socket.io](401-class12.md)
 - [Message Queues](401-class13.md)
 - [Event-Driven Architecture](401-class14.md)
+- [Binary Trees](401-class15.md)
