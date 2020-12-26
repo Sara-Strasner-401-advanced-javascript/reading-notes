@@ -64,6 +64,6 @@
 - [Message Queues](401-class13.md)
 - [Event-Driven Architecture](401-class14.md)
 - [Binary Trees](401-class15.md)
-- [????](401-class16.md)
+- [Event-Driven Applications](401-class16.md)
 - [AWS: S3 and Lambda](401-class17.md)
 - [AWS: API, Dynamo and Lambda](401-class18.md)
