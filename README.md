@@ -68,3 +68,4 @@
 - [AWS: S3 and Lambda](401-class17.md)
 - [AWS: API, Dynamo and Lambda](401-class18.md)
 - [Component-Based UI](401-class26.md)
+- [Props and State](401-class27.md)
