@@ -67,3 +67,4 @@
 - [Event-Driven Applications](401-class16.md)
 - [AWS: S3 and Lambda](401-class17.md)
 - [AWS: API, Dynamo and Lambda](401-class18.md)
+- [Component-Based UI](401-class26.md)
