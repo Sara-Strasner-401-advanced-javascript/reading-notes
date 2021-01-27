@@ -76,3 +76,4 @@
 - [Context API](401-class33.md)
 - [Login and Auth](401-class34.md)
 - [Application State with Redux](401-class36.md)
+- [Redux - Combined Reducers](401-class37.md)
