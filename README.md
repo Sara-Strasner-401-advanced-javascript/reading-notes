@@ -80,4 +80,5 @@
 - [Redux - Asynchronous Actions](401-class38.md)
 - [Redux - Additional Topics](401-class39.md)
 - [React Native](401-class41.md)
+- [Ethics in Tech](401-class42.md)
 
